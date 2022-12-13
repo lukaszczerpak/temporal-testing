@@ -6,7 +6,7 @@ import (
 	"go.temporal.io/sdk/client"
 	"go.temporal.io/sdk/worker"
 
-	"github.com/temporalio/samples-go/greetings"
+	"github.com/temporalio/samples-go/greetings-timeout"
 )
 
 func main() {
